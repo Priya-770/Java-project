@@ -1,4 +1,6 @@
-steps to Create a Medical Management System
+Medical Management System:
+
+
 1.Project Setup:
 
 Create a new Java project using an IDE like IntelliJ IDEA or Eclipse.
